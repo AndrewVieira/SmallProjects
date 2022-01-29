@@ -1,2 +1,2 @@
 # SmallProjects
-A Collection of Small Project in Various Programming Languages
+A Collection of Small Projects in Various Programming Languages
