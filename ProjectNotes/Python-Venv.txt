@@ -1,0 +1,9 @@
+1. Creating a virtual environment
+$ python -m venv [directory]
+
+2. Activation
+$ source myvenv/bin/activate
+C:\> env\Scripts\activate.bat
+
+3. Deactivation
+$ deactivate
